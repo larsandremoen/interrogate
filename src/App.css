@@ -28,11 +28,24 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.container-file-upload {
+  margin: 35px;
+
+
+}
+
+.custom-file-upload:hover {
+
+  text-decoration: underline #ccc;
+
+}
+
+input[type="file"] {
+  display: none;
+}
+.custom-file-upload {
+
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
 }
