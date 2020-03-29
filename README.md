@@ -1,4 +1,5 @@
-# Interrogate - an app that makes your Messenger chat data into a Kahoot quiz
+# Interrogate
+An app that makes your Messenger chat data into a Kahoot quiz
 
 ## Installation
 
