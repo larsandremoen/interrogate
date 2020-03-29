@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React, { useState} from 'react';
 import logo from './assets/images/kahoot_messenger.png'
 import './App.css';
 
@@ -7,29 +7,6 @@ import ReactExport from "react-export-excel";
 const ExcelFile = ReactExport.ExcelFile;
 const ExcelSheet = ReactExport.ExcelFile.ExcelSheet;
 const ExcelColumn = ReactExport.ExcelFile.ExcelColumn;
-
-const kahootDummy = [
-  {
-    question: "Question 1",
-    time: 20,
-    answer1: 'Sputnik',
-    answer2: 'Ivar Aasen',
-    answer3: 'Kong Harald',
-    answer4: 'Durek',
-    correct: 2
-  },
-  {
-    question: "Question 2",
-    time: 20,
-    answer1: 'Sputnik',
-    answer2: 'Ivar Aasen',
-    answer3: 'Kong Harald',
-    answer4: 'Durek',
-    correct: 1
-  }
-];
-
-
 
 function App() {
 
