@@ -5,7 +5,7 @@ __pycache__/
 .env
 
 # dependencies
-/node_modules
+fronten/node_modules
 /.pnp
 .pnp.js
 
@@ -13,8 +13,8 @@ __pycache__/
 /coverage
 
 # production
-/build
-
+frontend/build
+frontend/public
 # misc
 .DS_Store
 .env.local

@@ -20,7 +20,7 @@ function App() {
       const contents = e.target.result;
 
 
-      fetch('http://0.0.0.0:8000/interrogate', {
+      fetch('http://kahootmessenger.ngrok.io/interrogate', {
         method: 'POST',
         headers: {
           'accept': 'application/json',

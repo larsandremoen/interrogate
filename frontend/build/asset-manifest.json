@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad65b35a.chunk.css",
+    "main.js": "/static/js/main.3c81a0e3.chunk.js",
+    "main.js.map": "/static/js/main.3c81a0e3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cdaa8a19.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cdaa8a19.js.map",
+    "static/js/2.e8c72f9e.chunk.js": "/static/js/2.e8c72f9e.chunk.js",
+    "static/js/2.e8c72f9e.chunk.js.map": "/static/js/2.e8c72f9e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.25f72f7a4f45bd42074b38db2e85e6d8.js": "/precache-manifest.25f72f7a4f45bd42074b38db2e85e6d8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ad65b35a.chunk.css.map": "/static/css/main.ad65b35a.chunk.css.map",
+    "static/js/2.e8c72f9e.chunk.js.LICENSE.txt": "/static/js/2.e8c72f9e.chunk.js.LICENSE.txt",
+    "static/media/kahoot_messenger.png": "/static/media/kahoot_messenger.eb2b8205.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdaa8a19.js",
+    "static/js/2.e8c72f9e.chunk.js",
+    "static/css/main.ad65b35a.chunk.css",
+    "static/js/main.3c81a0e3.chunk.js"
+  ]
+}

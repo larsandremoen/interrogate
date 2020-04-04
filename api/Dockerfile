@@ -13,7 +13,6 @@ ENV LANG C.UTF-8
 #PYTHON BUFFER
 ENV PYTHONUNBUFFERED 1
 
-# rename to evry_middleware
 COPY ./app /app
 
 CMD uvicorn app.main:app --host 0.0.0.0 --port  $PORT $RELOAD
