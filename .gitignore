@@ -5,7 +5,7 @@ __pycache__/
 .env
 
 # dependencies
-fronten/node_modules
+frontend/node_modules
 /.pnp
 .pnp.js
 
